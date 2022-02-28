@@ -1,0 +1,119 @@
+.grass-tag {
+    background-color: #78C850;
+}
+
+.fire-tag {
+    background-color: #F08030;
+}
+
+.water-tag {
+    background-color: #6890F0;
+}
+
+.bug-tag{
+    background-color: #A8B820;
+}
+
+.normal-tag{
+    background-color: #A8A878;
+}
+
+.poison-tag{
+    background-color: #A040A0;
+}
+
+.electric-tag {
+    background-color: #F8D030;
+}
+
+.ground-tag{
+    background-color: #E0C068;
+}
+
+.fairy-tag{
+    background-color: #EE99AC;
+}
+
+.fighting-tag{
+    background-color: #C03028;
+}
+
+.psychic-tag{
+    background-color: #F85888;
+}
+
+.dragon-tag{
+    background-color: #7038F8;
+}
+
+.rock-tag{
+    background-color: #B8A038;
+}
+
+.ice-tag{
+    background-color: #98D8D8;
+}
+
+.ghost-tag{
+    background-color: #705898;
+}
+
+.grass {
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #78C850 50%);
+}
+
+.fire {
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #F08030 50%);
+}
+
+.water {
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #6890F0 50%);
+}
+
+.bug{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #A8B820 50%);
+}
+
+.normal{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #A8A878 50%);
+}
+
+.poison{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #A040A0 50%);
+}
+
+.electric {
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #F8D030 50%);
+}
+
+.ground{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #E0C068 50%);
+}
+
+.fairy{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #EE99AC 50%);
+}
+
+.fighting{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #C03028 50%);
+}
+
+.psychic{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #F85888 50%);
+}
+
+.dragon{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #7038F8 50%);
+}
+
+.rock{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #B8A038 50%);
+}
+
+.ice{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #98D8D8 50%);
+}
+
+.ghost{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, #705898 50%);
+}
